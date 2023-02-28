@@ -1,0 +1,27 @@
+{
+ "Version": "",
+ "ReleaseNotes": "",
+ "Servers": [
+  {
+   "Name": "Free GCP",
+   "FLAG": "us",
+   "ServerIP": "winkogcp-winkogcp-xwo6b00qfoo.ssh.ws-us88.gitpod.io",
+   "Slowchave": "",
+   "Nameserver": "",
+   "Slowdns": "",
+   "ServerPort": "22",
+   "SSLPort": "",
+   "ProxyIP": "",
+   "ProxyPort": "",
+   "ServerUser": "winkogcp-winkogcp-xwo6b00qfoo",
+   "ServerPass": "LVpGFlQ93hDZtJm2I9LI0lRHHXEXU1kU",
+   "Payload": "",
+   "SNI": "",
+   "isSSL": false,
+   "isPayloadSSL": false,
+   "isInject": false,
+   "isDirect": true,
+   "isSlow": false
+  }
+ ]
+}
